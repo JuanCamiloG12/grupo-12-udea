@@ -1,0 +1,10 @@
+https://github.com/JuanCamiloG12/grupo-12-udea.git
+https://trello.com/b/XtKElewl/proyecto-grupo12
+Grupo-12
+Comandos para ejecutar 
+npm install.
+npm start.
+npm install react-bootstrap@next bootstrap@5.1.1 
+Manfred Ricardo Palacio 80030298
+JHOAN SEBASTIAN	BARON GUARIN 1098648420
+Juan camilo Gomez Cataño 1007251655
