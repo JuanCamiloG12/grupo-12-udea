@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+--- SPRINT 2 ---
+-Numero del Equipo en WP: 12
+-Nombre de los integrantes (ACTIVOS): Jhoan Sebastian Baron Guarin, Juan Camilo Gomez Cataño, Manfred Ricardo Palacio
+-Link de TRELLO: https://trello.com/b/XtKElewl/proyecto 
+-Descripción GENERAL de sus interfaces: Existe una interfaz de login, una lista con los integrantes del grupo y un formulario para ingresar datos de usuarios.
+-Comandos para ejecutar la APP: npm install - npm start 
